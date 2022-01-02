@@ -1,4 +1,4 @@
-# Bruteweb
+# Bruteweb 💥
 <b><i>Admin Panel Bruteforce</b></i>
 
 <p align="center">
@@ -7,18 +7,18 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-## Commands
+## 💿 Installation 💿
 ```
 git clone https://github.com/Err0r-ICA/Bruteweb
 cd Bruteweb
 python2 Bruteweb -url admin pass.txt
 ```
 
-## Screenshot
+## 📸 Screenshot 📸
 
 ![Screenshot](https://i.postimg.cc/SKQN259B/20201106-005623.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 * [TELEGRAM](https://t.me/kalit3rmux)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
