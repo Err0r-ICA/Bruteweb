@@ -18,10 +18,9 @@ python2 Bruteweb -url admin pass.txt
 
 ![Screenshot](https://i.postimg.cc/SKQN259B/20201106-005623.jpg) 
 
-### 👤 My Accounts 👤
-* [TELEGRAM](https://t.me/kalit3rmux)
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-* [INSTAGRAM](https://instagram.com/termux_hacking)
+### 👤 Connect with me 👤
+<a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
